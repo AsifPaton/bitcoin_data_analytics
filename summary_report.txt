@@ -1,0 +1,15 @@
+Bitcoin sentiment vs trader performance summary
+============================================
+
+- Extreme Fear: avg pnl=0.00, total pnl=0.0, trades=21400, avg leverage=1.00, avg sentiment=19.6
+- Extreme Greed: avg pnl=0.00, total pnl=0.0, trades=39992, avg leverage=1.00, avg sentiment=79.4
+- Fear: avg pnl=0.00, total pnl=0.0, trades=61837, avg leverage=1.00, avg sentiment=33.3
+- Greed: avg pnl=0.00, total pnl=0.0, trades=50303, avg leverage=1.00, avg sentiment=68.1
+- Neutral: avg pnl=0.00, total pnl=0.0, trades=37686, avg leverage=1.00, avg sentiment=48.8
+- Unknown: avg pnl=0.00, total pnl=0.0, trades=6, avg leverage=1.00, avg sentiment=0.0
+
+Interpretation:
+--------------
+- The strongest average performance appears in Extreme Fear.
+- The weakest average performance appears in Extreme Fear.
+- Use these results as a starting point for testing sentiment-aware position sizing and risk controls.
